@@ -1,0 +1,12 @@
+accordion
+
+A very simple jQuery accordion/drawer widget
+
+Will turn every even item within the container element
+into a handle and every odd item into a drawer.
+When handles are clicked, drawers either open or close.
+If a drawer has a css class "open" it will be open.
+
+Documentation and licence in js header.
+
+sample.htm will show usage.
